@@ -1,6 +1,6 @@
 ### Olá, eu sou a Thaiane, uma desenvolvedora em construção 👋
 ##
-- 🔭 Atualmente estudo com foco em front-end e participo do bootcamp HTML Web Developer da DIO._
+- 🔭 Atualmente estudo com foco em front-end e estou participando dos bootcamps HTML Web Developer e Philips Fullstack Developer | You Are You da DIO._
  
 - 🌱 Estou aprendendo Bootstrap e JavaScript
 
