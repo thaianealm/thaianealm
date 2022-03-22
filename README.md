@@ -21,8 +21,10 @@
 
 ### Outras ferramentas:
 <div style="display: inline_block"></br>
-    <img alt="Canva" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="30px"/>
+    <img alt="Figma" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="30px"/>
     <img alt="Canva" src="https://logosmarcas.net/wp-content/uploads/2021/11/Canva-Logo.png" width="60px"/>
+    <img alt="VSCode" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="35px"/>
+    <img alt="Git" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="40px"/>
 </div>
 
 
