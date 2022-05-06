@@ -1,6 +1,6 @@
 ### Olá, eu sou a Thaiane, uma desenvolvedora em construção 👋
 ##
-- 🔭 Atualmente estou participando dos bootcamps HTML Web Developer, Órbi Web Games Developer e Philips Fullstack Developer | You Are You da DIO._
+- 🔭 Atualmente estou participando dos bootcamps HTML Web Developer e Órbi Web Games Developer da DIO._
  
 - 🌱 Estou aprendendo JavaScript
 
