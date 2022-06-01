@@ -1,6 +1,6 @@
-### Olá, eu sou a Thaiane, uma desenvolvedora em construção 👋
+### Olá, eu sou a Thaiane 👋
 ##
-- 🔭 Atualmente estou participando do bootcamp HTML Web Developer da DIO._
+- 🔭 Atualmente estou participando dos bootcamps HTML Web Developer e Santander Bootcamp Fullstack Developer (Digital Innovation One)
 - ✔️ Bootcamp(s) concluído(s): Órbi Web Games Developer (Órbi conecta / DIO._)
 - 🌱 Estou aprendendo JavaScript
 
