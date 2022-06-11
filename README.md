@@ -1,6 +1,6 @@
 ### Olá, eu sou a Thaiane 👋
 ##
-- 🔭 Atualmente estou participando dos bootcamps HTML Web Developer e Santander Bootcamp Fullstack Developer (Digital Innovation One)
+- 🔭 Atualmente estou participando do bootcamp HTML Web Developer da Digital Innovation One.
 - ✔️ Bootcamp(s) concluído(s): Órbi Web Games Developer (Órbi conecta / DIO._)
 - 📫 Email: cont.thaiane@gmail.com
 
