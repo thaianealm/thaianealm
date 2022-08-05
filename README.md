@@ -1,15 +1,17 @@
 ### Olá, eu sou a Thaiane 👋
+ 
+ Email: cont.thaiane@gmail.com
+ 
+ <div>
+<a href="https://www.linkedin.com/in/thaiane-a-lima-51506522a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+<a href="https://www.instagram.com/thaianealm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
+</div>
+
 ##
 - 🌱 Atualmente estou aprofundando meus conhecimentos em Vue.js
 - ✔️ Bootcamps concluídos: 
   <br/>Órbi Web Games Developer - (Órbi conecta / DIO._)
   <br/>HTML Web Developer - Digital Innovation One
-- 📫 Email: cont.thaiane@gmail.com
-
-<div>
-<a href="https://www.linkedin.com/in/thaiane-a-lima-51506522a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
-<a href="https://www.instagram.com/thaianealm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
-</div>
 
 ### Tecnologias | Ferramentas
 ##
