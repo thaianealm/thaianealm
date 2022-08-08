@@ -8,10 +8,6 @@
 </div>
 
 ##
-- 🌱 Atualmente estou aprofundando meus conhecimentos em Vue.js
-- ✔️ Bootcamps concluídos: 
-  <br/>Órbi Web Games Developer - (Órbi conecta / DIO._)
-  <br/>HTML Web Developer - Digital Innovation One
 
 ### Tecnologias | Ferramentas
 ##
@@ -21,6 +17,7 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
 
 ### Outras ferramentas:
@@ -31,5 +28,6 @@
     <img alt="Git" src="https://i.ibb.co/Lps4Xgb/eclipseide.jpg" width="60px"/>
     <img alt="Git" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="40px"/>
 </div>
-
-
+<br/>
+<br/>
+• 🌱 Atualmente estou aprofundando meus conhecimentos em Vue.js e Angular.
