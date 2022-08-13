@@ -1,4 +1,4 @@
-### Olá, eu sou a Thaiane 👋
+<div><h1 text-aling="center">Olá, eu sou a Thaiane 👋</h1></div>
  
  Email: cont.thaiane@gmail.com
  
