@@ -1,4 +1,4 @@
-<div><h1 text-aling="center">Olá, eu sou a Thaiane 👋</h1></div>
+<h1 text-aling="center">Olá, eu sou a Thaiane 👋</h1>
  
  Email: cont.thaiane@gmail.com
  
