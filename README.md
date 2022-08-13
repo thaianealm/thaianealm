@@ -1,17 +1,18 @@
-<h1 text-aling="center">Olá, eu sou a Thaiane 👋</h1>
+<h1>Olá, eu sou a Thaiane 👋</h1>
+
+Email: cont.thaiane@gmail.com
  
- Email: cont.thaiane@gmail.com
- 
- <div>
+<div>
 <a href="https://www.linkedin.com/in/thaiane-a-lima-51506522a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
 <a href="https://www.instagram.com/thaianealm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
 </div>
 
-##
+<hr>
+<h3>Tecnologias | Ferramentas</h3>
+<hr>
 
-### Tecnologias | Ferramentas
-##
 ### Front-end:
+<center>
 <div style="display: inline_block"></br>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -19,6 +20,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
+</center>
 
 ### Outras ferramentas:
 <div style="display: inline_block"></br>
