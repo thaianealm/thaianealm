@@ -1,6 +1,6 @@
 <h1>Olá, eu sou a Thaiane 👋</h1>
 
-<p>Email: cont.thaiane@gmail.com</p>
+<p>Email: contatothaianealm@gmail.com</p>
 
 <div>
 <a href="https://www.linkedin.com/in/thaiane-a-lima-51506522a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
