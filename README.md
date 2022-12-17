@@ -10,7 +10,7 @@ Atualmente tenho estudado e aprofundado meus conhecimentos no ecossistema Java
 
 <hr>
 <h3>Meus Projetos</h3>
-<p>Clicando em PROJETOS,  você poderá ver  os projetos que fiz:</p>
+<p>Clicando em PROJETOS,  você poderá ver  os projetos que fiz e os que estou fazendo:</p>
 
 <a href="https://github.com/thaianealm/portfolio-projetos" target="_blank">PROJETOS</a>
 <hr>
